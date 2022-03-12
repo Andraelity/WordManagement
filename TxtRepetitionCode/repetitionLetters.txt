@@ -1,0 +1,156 @@
+            if(characterToPaint == "A")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 0);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "B")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 0);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "C")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 0);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "D")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 0);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "E")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 1);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "F")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 1);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "G")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 1);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "H")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 1);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "I")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 2);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "J")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 2);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "K")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 2);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "L")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 2);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "M")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 3);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "N")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 3);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "O")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 3);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "P")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 3);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "Q")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 4);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "R")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 4);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "S")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 4);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "T")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 4);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "U")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 5);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "V")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 5);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "W")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 2, 5);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "X")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 3, 5);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "Y")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 0, 6);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
+            if(characterToPaint == "Z")
+            {
+                 paintCharacterFromTextureIndividual(_PositionTranslateX, _PositionTranslateY, 1, 6);
+                 _PositionTranslateX -= CHARACTERWIDTH;
+            }
+
